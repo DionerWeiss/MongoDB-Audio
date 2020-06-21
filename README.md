@@ -1,4 +1,4 @@
-# Python-Music-Player
+# Python Audio Player
 
 
-Tocador de musicas feito em python com MongoDB
+Audio Player using Python and MongoDB.
